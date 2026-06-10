@@ -4,8 +4,8 @@ from langchain_core.output_parsers import StrOutputParser
 
 
 import streamlit as st
-#from dotenv import load_dotenv
 
+#from dotenv import load_dotenv
 # .env 파일에서 환경 변수 로드
 #load_dotenv()
 
