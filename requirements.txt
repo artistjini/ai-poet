@@ -1,2 +1,5 @@
-langchain-google-genai\ngoogle-genai\npython-dotenv
-Anaconda - miniconda3\python.exe -m pip install -r requirements.txt
+streamlit
+langchain
+langchain-google-genai
+google-genai
+python-dotenv
